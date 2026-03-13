@@ -25,3 +25,4 @@ SiiWay 团队目前有 22 位成员 (按加入时间排序):
 - [Lokins](./lokins)
 - [yuholt](./yuholt)
 - [RhenCloud](./RhenCloud)
+- [JosephLi](./JosephLi)

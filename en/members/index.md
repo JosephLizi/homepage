@@ -28,3 +28,4 @@ SiiWay Team now has 22 members (in order of joining):
 - [Lokins](../../zh/members/lokins)
 - [yuholt](../../zh/members/yuholt)
 - [RhenCloud](../../zh/members/RhenCloud)
+- [JosephLi](../../zh/members/JosephLi)
